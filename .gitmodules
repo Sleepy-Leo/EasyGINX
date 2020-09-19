@@ -1,0 +1,3 @@
+[submodule "EasyRLWE"]
+	path = EasyRLWE
+	url = git@github.com:Sleepy-Leo/EasyRLWE.git
